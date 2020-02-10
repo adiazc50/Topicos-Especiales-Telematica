@@ -1,0 +1,6 @@
+CREATE TABLE Datos (
+    Usuario VARCHAR(10) PRIMARY KEY,
+    Temperatura VARCHAR(20),
+    Humedad VARCHAR(20) NOT NULL,
+    GPS VARCHAR(20) NOT NULL
+)
