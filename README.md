@@ -14,22 +14,33 @@ el sistema debe registrar en menos de 5 segundos un ingreso de datos
 El sistema muestra de manera organizada los elementos que contiene
 
 4.¿QUÉ TECNOLOGÍA DE DESARROLLO UTILIZÓ?
-Pytho
+Python, SQL, HTML, CSS
 
 4.1 EN EL BACKEND?
 -Python y SQL
 
 4.2 EN EL FRONTEND?
-
 -Html y CSS
+
 5.¿CUALES SON Y CUAL ES LA ESPECIFICACIÓN DE LOS SERVICIOS API REST DEL BACKEND?
 -Flask
 
 6.¿CÓMO REALIZÓ LA AUTENTICACIÓN DE LOS SERVICIOS API REST?
-usando 
+-usando python como intermediario entre MySql y la pagina. usando la autencicacion de MSQL
+
 7. ¿CUALES SON LAS PRINCIPALES DIFICULTADES QUE TUVO AL DESARROLLAR EL PROYECTO?
+-El tiempo.
+
 7.1 POR DESCONOCIMIENTO DE LA TECNOLOGÍA?
+-Un poco pero no es la principal causa.
+
 7.2 ¿QUÉ CONCEPTOS O FUNDAMENTOS NO SABE PARA PODER DESARROLLAR ESTE PROYECTO?
+-profundizar mas a la hora de realizar la gestion de la DB
+
 7.3 ¿QUÉ HABILIDADES DE DESARROLLO LE FALTAN PARA PODER TERMINAR EL PROYECTO?
+-Gestion de la DB
+
 7.4 ¿QUÉ OTRAS COSAS LE FALTÓ PARA PODER DESARROLLAR EL PROYECTO 1?
+-tiempo...
 8. ¿CUALES FUERON LOS PRINCIPALES APRENDIZAJES DEL PROYECTO 1?
+-Aprender a gestionar bien mi tiempo
