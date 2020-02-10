@@ -1,0 +1,9 @@
+http://127.0.0.1:8000/listarDatos
+{
+	
+	"Usuario":"1040757aa",
+	"Temperatura":"20", 
+    "Humedad":"5", 
+    "GPS":"O0000"
+    
+}
